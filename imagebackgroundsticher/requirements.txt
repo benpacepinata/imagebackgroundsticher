@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+opencv-python
+gdown
+scikit-image
+omegaconf
+transformers
